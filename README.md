@@ -6,4 +6,4 @@ run the command "**pip install -r requirements.txt**" to install the required de
 
 You may need to install additional libraries for running the jupyter notebooks.
 
-![Sorting Visualizer](sorting-Visualizer.png)
+![Sorting Visualizer](mdps.png)
